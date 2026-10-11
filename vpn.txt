@@ -1,5 +1,5 @@
 #profile-title: Pizduk & rtpkr ЧС
-#announce:@rtpkr специально для Pizduk. Автообновление 24 часа в сутки. 200+ ключей. 
+#announce:@rtpkr специально для Pizduk. Автообновление 24 часа. 379 ключей
 #profile-web-page-url: https://t.me/PizMod
 #profile-update-interval: 24
 vless://03ca8c3f-e777-45b5-a1b1-592094ca99ee@79.174.92.222:443?type=grpc&security=reality&fp=firefox&pbk=_PYBo3dyZRpGC44vADqcmlBCSeAVh1X8l3mulghVsTI&sid=a1b2c3d4&sni=m.vk.com&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%D0%91%D0%95%D0%9B%D0%AB%D0%99%20IP%20%7C%20%40RaViraNet
